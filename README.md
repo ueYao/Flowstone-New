@@ -1,12 +1,13 @@
-# Flowstone New
 
 ![Flowstone New Logo](https://raw.githubusercontent.com/ueYao/Flowstone-New/main/img/logo.png)
 
 [![GitHub Stars](https://img.shields.io/github/stars/ueYao/Flowstone-New.svg)](https://github.com/ueYao/Flowstone-New/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ueYao/Flowstone-New.svg)](https://github.com/ueYao/Flowstone-New/network)
 
-Flowstone New是作者**手写**文字的字体，项目包含数字、英文字母、常用汉字6766个等，
-Flowstone New依据**阿里巴巴黑数体**的项目结构上替换成作者手写的文字，
+Flowstone New是作者**手写**文字的字体，项目包含数字、英文字母、常用汉字6766个等。
+
+Flowstone New通过[阿里妈妈数黑体](https://www.alibabafonts.com/#/more)的项目结构，替换成作者手写的文字，如有疏漏请包涵。
+
 Flowstone New由作者通过10天制作完成，因为时间原因有部分问题暂未解决，后期依情况修改。
 
 Flowstone New字体可**免费商用**。
@@ -34,7 +35,7 @@ Flowstone New字体可**免费商用**。
 ## 🙏 致谢
 
 - 感谢所有软件的支持
-- 感谢阿里巴巴字体的支持
+- 感谢**阿里妈妈数黑体**的支持
 - 感谢高漫M7手绘板的支持
 
 
